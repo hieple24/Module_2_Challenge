@@ -33,7 +33,7 @@ def load_bank_data():
         The bank data from the data rate sheet CSV file.
     """
 
-    csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
+    csvpath = questionary.text("Enter the save path and name.").ask() 
     csvpath = Path(csvpath)
     if not csvpath.exists():
         sys.exit(f"Oops! Can't find this path: {csvpath}")
@@ -115,19 +115,19 @@ def save_qualifying_loans(qualifying_loans):
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
 
-    qualifying_loans = questionary.text("Do you want to save your qualifying loans?").ask()
+    file_save = questionary.text("Do you want to save your qualifying loans?").ask()
     message = "Qualifying loans not saved."
 
-    if qualifying_loans == 'yes':
-        message = "Where is your file path?"
-    print(message) 
-
+    if file_save.lower() == "yes":
+        csvpath = questionary.text("Enter the save path and name.").ask()
+        with open(csvpath, 'w', newline='') as csvfile:
+            output_data = csv.writer(csvfile)
+            output_data.writerows(qualifying_loans)      
     
-    with open(message, 'w', newline='') as csvfile:
-        output_data = csv.writer(csvfile)
-        output_data.writerows(bank_data_filtered)  
-        
+    else:
+        print(message) 
 
+            
 
 def run():
     """The main function for running the script."""
@@ -145,7 +145,6 @@ def run():
 
     # Save qualifying loans
     save_qualifying_loans(qualifying_loans)
-
 
 if __name__ == "__main__":
     fire.Fire(run)
