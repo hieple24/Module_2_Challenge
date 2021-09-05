@@ -1,4 +1,4 @@
-# Save Qualifying Loas as CSV File
+# Save Qualifying Loans as CSV File
 
 This program determines which bank loans the user qualifies for, based on 4 factors:
 
