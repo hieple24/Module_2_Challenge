@@ -1,0 +1,957 @@
+   50  source /Users/hieple/opt/anaconda3/bin/activate
+   51  conda activate base
+   52  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Unsolved.py
+   53  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Unsolved.py
+   54  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Unsolved.py
+   55  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Unsolved.py
+   56  /Users/hieple/opt/anaconda3/bin/python
+   57  source /Users/hieple/opt/anaconda3/bin/activate
+   58  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   59  conda activate base
+   60  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   61  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   62  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   63  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/a_definitive_buy.py
+   64  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/a_definitive_buy.py
+   65  source /Users/hieple/opt/anaconda3/bin/activate
+   66  conda activate base
+   67  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/a_definitive_buy.py
+   68  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Unsolved.py
+   69  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Unsolved.py
+   70  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Unsolved.py
+   71  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   72  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   73  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   74  source /Users/hieple/opt/anaconda3/bin/activate
+   75  conda activate base
+   76  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   77  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   78  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   79  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   80  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   81  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   82  source /Users/hieple/opt/anaconda3/bin/activate
+   83  conda activate base
+   84  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   85  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   86  source /Users/hieple/opt/anaconda3/bin/activate
+   87  conda activate base
+   88  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   89  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+   90  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   91  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   92  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   93  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   94  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   95  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   96  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+   97  source /Users/hieple/opt/anaconda3/bin/activate
+   98  conda activate base
+   99  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+  100  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+  101  source /Users/hieple/opt/anaconda3/bin/activate
+  102  conda activate base
+  103  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+  104  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+  105  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+  106  source /Users/hieple/opt/anaconda3/bin/activate
+  107  conda activate base
+  108  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Solved.py
+  109  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/ASDF.PY/asdf.PY
+  110  source /Users/hieple/opt/anaconda3/bin/activate
+  111  conda activate base
+  112  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/ASDF.PY/asdf.PY
+  113  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/split_second_part_2.py
+  114  source /Users/hieple/opt/anaconda3/bin/activate
+  115  conda activate base
+  116  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Unsolved.py
+  117  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Unsolved.py
+  118  /Users/hieple/opt/anaconda3/bin/python /Users/hieple/Desktop/Fintech-Workspace/Unsolved.py
+  119  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  120  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-2/Solved/racking_up_the_profit.py
+  121  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  122  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  123  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  124  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  125  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  126  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  127  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  128  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  129  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  130  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  131  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  132  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  133  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  134  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  135  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  136  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  137  python /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Unsolved/racking_up_the_profit.py
+  138  /usr/local/bin/python3 /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Solved/racking_up_the_profit.py
+  139  /usr/local/bin/python3 /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Solved/test.py
+  140  /usr/local/bin/python3 /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Solved/test.py
+  141  /usr/local/bin/python3 /Users/hieple/Downloads/01_Racking_Up_The_Profit-3/Solved/test.py
+  142  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1-2/Solved/pathways_to_success.py
+  143  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/pathways_to_success.py
+  144  /usr/local/bin/python3 /Users/hieple/Desktop/02_Pathways_to_Success_Part_1-2/Unsolved/pathways_to_success.py
+  145  /usr/local/bin/python3 /Users/hieple/Desktop/02_Pathways_to_Success_Part_1-2/Solved/pathways_to_success.py
+  146  /usr/local/bin/python3 /Users/hieple/Desktop/02_Pathways_to_Success_Part_1-2/Solved/pathways_to_success.py
+  147  /usr/local/bin/python3 /Users/hieple/Desktop/02_Pathways_to_Success_Part_1-2/Solved/pathways_to_success.py
+  148  /usr/local/bin/python3 /Users/hieple/Desktop/02_Pathways_to_Success_Part_1-2/Solved/pathways_to_success.py
+  149  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/pathways_to_success.py
+  150  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/pathways_to_success.py
+  151  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/asdf.py
+  152  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/pathways_to_success.py
+  153  /usr/local/bin/python3 /Users/hieple/Desktop/02_Pathways_to_Success_Part_1-2/Solved/pathways_to_success.py
+  154  /usr/local/bin/python3 /Users/hieple/Desktop/02_Pathways_to_Success_Part_1-2/Solved/pathways_to_success.py
+  155  /usr/local/bin/python3 /Users/hieple/Desktop/02_Pathways_to_Success_Part_1-2/Solved/pathways_to_success.py
+  156  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1-3/Unsolved/pathways_to_success.py
+  157  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1-3/Unsolved/pathways_to_success.py
+  158  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1-3/Unsolved/pathways_to_success.py
+  159  /usr/local/bin/python3 /Users/hieple/Downloads/03_Pathways_to_Success_Part_2/Unsolved/Unsolved.py
+  160  /usr/local/bin/python3 /Users/hieple/Downloads/03_Pathways_to_Success_Part_2/Unsolved/Solution.py
+  161  /usr/local/bin/python3 /Users/hieple/Downloads/02_Pathways_to_Success_Part_1-2/Unsolved/pathways_to_success.py
+  162  /usr/local/bin/python3 /Users/hieple/Downloads/02_Pathways_to_Success_Part_1-2/Solved/pathways_to_success.py
+  163  /usr/local/bin/python3 /Users/hieple/Downloads/02_Pathways_to_Success_Part_1-2/Unsolved/pathways_to_success.py
+  164  /usr/local/bin/python3 /Users/hieple/Downloads/02_Pathways_to_Success_Part_1-2/Unsolved/pathways_to_success.py
+  165  /usr/local/bin/python3 /Users/hieple/Downloads/02_Pathways_to_Success_Part_1-2/Unsolved/pathways_to_success.py
+  166  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Question.py
+  167  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Question.py
+  168  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Answer.py
+  169  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Question.py
+  170  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Question.py
+  171  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Answer.py
+  172  ls
+  173  cd Desktop
+  174  ls
+  175  cd Fintech-workspace
+  176  ls
+  177  cd question.py
+  178  ls
+  179  question.py
+  180  ls
+  181  conda activate dev
+  182  python question.py
+  183  ls
+  184  cd desktop
+  185  cd folder
+  186  ls
+  187  python solved
+  188  ls
+  189  cd solved
+  190  ls
+  191  python automated_equity_rounds.py
+  192  python automated_equity_rounds.py
+  193  python autoMated_equity_rounds.py
+  194  ls
+  195  cd desktop
+  196  ls
+  197  cd fintech-workspace
+  198  ls
+  199  ls
+  200  conda activate dev
+  201  pip -v
+  202  pip freeze
+  203  pip install fire
+  204  conda install fire -c conda-forge
+  205  pip install questionary
+  206  /usr/local/bin/python3
+  207  /usr/local/bin/python3 /Users/hieple/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  208  /usr/local/bin/python3 /Users/hieple/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  209  /usr/local/bin/python3 /Users/hieple/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  210  /usr/local/bin/python3 /Users/hieple/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  211  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/app.py
+  212  ls desktop
+  213  ls fintech-workspace
+  214  ls
+  215  cd desktop
+  216  cd fintech-workspace
+  217  l;s
+  218  ls
+  219  app.py
+  220  python app.py
+  221  /usr/local/bin/python3
+  222  /usr/local/bin/python3 /Users/hieple/Desktop/Class_1_Activities-3/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  223  /usr/local/bin/python3 /Users/hieple/Desktop/Class_1_Activities-3/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  224  /usr/local/bin/python3 /Users/hieple/Desktop/Class_1_Activities-3/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  225  /usr/local/bin/python3 /Users/hieple/Desktop/Class_1_Activities-3/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  226  /usr/local/bin/python3 /Users/hieple/Desktop/Class_1_Activities-3/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  227  /usr/local/bin/python3 /Users/hieple/Desktop/github_upload/main.py
+  228  /usr/local/bin/python3 /Users/hieple/Desktop/github_upload/main.py
+  229  pwd
+  230  ls
+  231  pwd
+  232  cd desktop
+  233  cd fintech-workspace
+  234  ls
+  235  touch fintech-example.txt
+  236  ls
+  237  rm fintech-example.txst
+  238  fintech-example.txt
+  239  cd..
+  240  ls
+  241  cd ..
+  242  ls
+  243  pip install fire
+  244   ls
+  245  cd desktop
+  246  ls
+  247  cd fintech-workspace
+  248  ls
+  249  python cli.p[y
+  250  python cli.py
+  251  python cli.py
+  252  python cli.py --pants=True
+  253  python cli.py --pants=True
+  254  python cli.py --pants=True
+  255  pip install questionary
+  256  ls
+  257  cd desktop
+  258  cd fintech-workspace
+  259  ls
+  260  python cli.py
+  261  python clip.py
+  262  no
+  263  ls
+  264  python cli.py
+  265  maybe
+  266  cli.py
+  267  ls
+  268  python cli.py
+  269  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/cli.py
+  270  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  271  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  272  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  273  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  274  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  275  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  276  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  277  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  278  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  279  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  280  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  281  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  282  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  283  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  284  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  285  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  286  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  287  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  288  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  289  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  290  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  291  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  292  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  293  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  294  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  295  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  296  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  297  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  298  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  299  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  300  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  301  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  302  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  303  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  304  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  305  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  306  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  307  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  308  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  309  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  310  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  311  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  312  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  313  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  314  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  315  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  316  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  317  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  318  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  319  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  320  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  321  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  322  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  323  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  324  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  325  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  326  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  327  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  328  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  329  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  330  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  331  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  332  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  333  ls
+  334  cd desktop
+  335  cd fintech-workspace
+  336  ls
+  337  cd fintech-workspace
+  338  ls
+  339  python loan_analyzer.py
+  340  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  341  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  342  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  343  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  344  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  345  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  346  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  347  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  348  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  349  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  350  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  351  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  352  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  353  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  354  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  355  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  356  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  357  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  358  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  359  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  360  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  361  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  362  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  363  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  364  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  365  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  366  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  367  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  368  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  369  usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  370  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  371  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  372  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  373  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  374  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  375  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  376  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  377  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  378  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  379  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  380  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  381  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  382  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  383  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  384  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  385  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  386  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  387  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  388  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  389  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  390  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  391  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  392  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  393  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  394  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  395  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  396  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  397  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  398  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  399  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  400  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  401  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  402  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  403  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  404  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  405  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  406  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  407  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  408  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  409  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  410  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  411  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  412  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  413  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  414  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  415  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  416  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  417  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  418  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  419  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  420  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  421  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  422  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  423  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  424  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  425  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  426  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  427  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  428  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  429  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  430  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  431  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  432  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  433  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  434  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  435  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  436  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  437  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  438  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  439  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  440  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  441  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  442  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  443  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  444  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  445  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/Assignment.py
+  446  conda activate dev
+  447  conda list pandas
+  448  conda list jupyterlab
+  449  conda activate dev
+  450  jupyter lab
+  451  conda deactivate
+  452  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  453  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  454  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  455  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  456  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  457  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  458  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  459  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  460  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  461  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  462  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1-3/Unsolved/pathways_to_success.py
+  463  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1-3/Unsolved/pathways_to_success.py
+  464  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/NOTES.PY
+  465  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/NOTES.PY
+  466  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/NOTES.PY
+  467  /usr/local/bin/python3 /Users/hieple/Downloads/03_Pathways_to_Success_Part_2-2/Solved/pathways_to_success_part_2.py
+  468  ;s
+  469  ls
+  470  cd desktop
+  471  cd fintech-workspace
+  472  ls
+  473  cd 02
+  474  c 02
+  475  cd 02_pathways_to_success_part_1-3
+  476  ls
+  477  cd solved
+  478  ls
+  479  python pathways_to_sucess.py
+  480  ls
+  481  python pathways_to_success.py
+  482  /usr/local/bin/python3 /Users/hieple/Downloads/03_Pathways_to_Success_Part_2-2/Solved/pathways_to_success_part_2.py
+  483  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/pathways_to_success_part_2.py
+  484  /usr/local/bin/python3 /Users/hieple/Downloads/04_Automating_Equity_Rounds-2/Solved/automated_equity_rounds.py
+  485  /usr/local/bin/python3 /Users/hieple/Downloads/04_Automating_Equity_Rounds-2/Solved/automated_equity_rounds.py
+  486  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  487  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  488  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/automated_equity_rounds.py
+  489  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  490  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/automated_equity_rounds.py
+  491  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  492  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/loan_analyzer.py
+  493  conda activate dev
+  494  pip-v
+  495  run pip-v
+  496  pip install fire
+  497  pip -v
+  498  pip freeze
+  499  pip install questionary
+  500  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Fintech-Workspace/notes.py
+  501  /usr/local/bin/python3 /Users/hieple/Downloads/02_Loan_Qualifier_Filtering_Data-2/Solved/app.py
+  502  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/app.py
+  503  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/app.py
+  504  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/app.py
+  505  ls
+  506  desktop
+  507  cd desktop
+  508  cd fintech-workspace
+  509  ls
+  510  python app.py
+  511  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Unsolved/qualifier/app.py
+  512  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Unsolved/qualifier/app.py
+  513  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Unsolved/app.py
+  514  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Unsolved/app.py
+  515  /usr/local/bin/python3 /Users/hieple/Desktop/Solved/app.py
+  516  cd desktop
+  517  cd fintech-workspace
+  518  ls
+  519  cd unsolved
+  520  ls
+  521  python app.py
+  522  ls
+  523  ls
+  524  cd
+  525  ls
+  526  cd cd desktop
+  527  ls
+  528  cd desktop
+  529  ls
+  530  ls
+  531  cd fintech-workspace
+  532  ls
+  533  cd solved
+  534  ls
+  535  python app.py
+  536  cd desktop
+  537  cd test
+  538  ls
+  539  cd solved
+  540  ls
+  541  python app.py
+  542  app.py --help
+  543  pip install fire
+  544  ls
+  545  python app.py
+  546  /usr/local/bin/python3 /Users/hieple/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  547  pip install fire
+  548  /usr/local/bin/python3 /Users/hieple/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  549  ls
+  550  cd desktop
+  551  cd test
+  552  ls
+  553  cd solved
+  554  ls
+  555  python app.py --credit_score=750
+  556  python app.py
+  557  python app.py
+  558  pip install fire
+  559  ls
+  560  python app.py
+  561  python app.py
+  562  ls
+  563  python app.py
+  564  python app.py --credit_score=750
+  565  cd desktop
+  566  cd test
+  567  ls
+  568  cd solved
+  569  ls
+  570  python app.py
+  571  pip install fire
+  572  python app.py
+  573  ls
+  574  python app.py
+  575  cd desktop
+  576  cd test
+  577  ls
+  578  cd solved
+  579  ls
+  580  python app.py
+  581  pip install fire
+  582  ls
+  583  python app.py
+  584  ls
+  585  cd desktop
+  586  ls
+  587  cd test
+  588  ls
+  589  cd solved
+  590  ls
+  591  python app.py --credit_score=750 --debt=3000 --income=50000
+  592  /usr/local/bin/python3 /Users/hieple/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  593  /usr/local/bin/python3 /Users/hieple/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  594  /usr/local/bin/python3 /Users/hieple/Desktop/Test/Unsolved/app.py
+  595  /usr/local/bin/python3 /Users/hieple/Desktop/Test/Unsolved/app.py
+  596  /usr/local/bin/python3 /Users/hieple/Desktop/Test/Unsolved/dialog.py
+  597  ls
+  598  cd test
+  599  ls test
+  600  cd test
+  601  cd desktop
+  602  cd test
+  603  ls
+  604  cd unsolved
+  605  ls
+  606  python app.py
+  607  python app.py
+  608  python app.py --credit_score=750
+  609  python app.py
+  610  python app.py --credit_score =450
+  611  python app.py --credit_score=450
+  612  python dialog.py
+  613  python dialog.py
+  614  python dialog.py
+  615  python dialog.py
+  616  python dialog.py
+  617  python dialog.py
+  618  python dialog.py
+  619  ls
+  620  cd
+  621  ls
+  622  desktop
+  623  ls
+  624  cd desktop
+  625  ls
+  626  cd 02_adding_questionary_to_loan_qualifier
+  627  ls
+  628  ls unsolved
+  629  python app.py
+  630  ls
+  631  cd solved
+  632  ls
+  633  python app.py
+  634  ls
+  635  python app.py --credit_score=750 --debt=5000 --income=20000
+  636  ls
+  637  python app.py
+  638  ls
+  639  cd ..
+  640  ls
+  641  cd unsolved
+  642  ls
+  643  python app.py
+  644  python app.py --credit_score=750 --debt=5000 --income=20000
+  645  python app.py --credit_score=750 --debt=5000 --income=20000
+  646  python app.py
+  647  python app.py
+  648  python app.py
+  649  /usr/local/bin/python3
+  650  git config --global user.name Hiep Le
+  651  git config --global user.email hiepl@uw.edu
+  652  git config --list
+  653  global user.email hieple@uw.edu
+  654  git config --global user.email hieple@uw.edu
+  655  git config --list
+  656  git config --global user.name Hiep Le
+  657  git config --global user.email hieple@uw.edu
+  658  git config --list
+  659  ls
+  660  cd desktop
+  661  cd fintech-workspace
+  662  ls
+  663  git clone https://github.com/hieple24/Test_Repo.git
+  664  git status
+  665  ls
+  666  git status
+  667   ls test_repo
+  668  git status
+  669  pwd
+  670  ls
+  671  cd test_repo
+  672  git status
+  673  cd ..
+  674  pwd
+  675  git add README.md
+  676  ls
+  677  cd test_repo
+  678  git add README.md
+  679  git status
+  680  ls
+  681  git status
+  682   pwd
+  683  touch new_file.txt
+  684  ls
+  685  git status
+  686  git add new_file.txt
+  687  git status
+  688  git commit -m "Test commit message"
+  689  git status
+  690  git push
+  691  git push
+  692  git push
+  693  git push
+  694  git push
+  695  conda activate dev
+  696  jupyterlab
+  697  jupyter lab
+  698  /Users/hieple/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  699  cd desktop
+  700  pwd
+  701  cd 01_importing_the_vix
+  702  ls
+  703  conda activate dev
+  704  jupyter lab
+  705  /Users/hieple/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  706  /Users/hieple/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  707  ls
+  708  cd desktop
+  709  ls
+  710  cd 02_headerless_horsemen
+  711  ls
+  712  jupyter lab
+  713  cd desktop
+  714  ls
+  715  cd 03_ipo_excitement
+  716  jupyter lab
+  717  ls
+  718  cd desktop
+  719  ls
+  720  cd 01_missing_money
+  721  ls
+  722  jupyter lab
+  723  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Solved/app.py
+  724  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Solved/app.py
+  725  /usr/local/bin/python3 /Users/hieple/Desktop/Fintech-Workspace/Solved/app.py
+  726  ls desktop
+  727  ls 01_missing_money
+  728  ls
+  729  cd desktop
+  730  cd 01_missing_money
+  731  ls
+  732  cd solved
+  733  jupyter lab
+  734  cd desktop
+  735  ls
+  736  cd class_2_activities-6
+  737  jupyter lab
+  738  cd desktop
+  739  ls
+  740  cd class_2_activities-6
+  741  ls
+  742  jupyter lab
+  743  cd desktop
+  744  cd class_2_activities-6
+  745  ls
+  746  jupyter lab
+  747  cd desktop
+  748  cd fun
+  749  ls
+  750  jupyter lab
+  751  ls
+  752  cd desktop
+  753  cd m2 assignment
+  754  ls
+  755  cd m2 assignment
+  756  cd m2assignment
+  757  ls
+  758  cd loan_qualifier_app
+  759  ;s
+  760  ls
+  761  python app.py
+  762  /usr/local/bin/python3 "/Users/hieple/Desktop/M2 Assignment/loan_qualifier_app/app.py"
+  763  /usr/local/bin/python3 /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  764  ls
+  765  ls desktop
+  766  ls m2assignment
+  767  cd m2assignment
+  768  ls
+  769  cd desktop
+  770  cd m2assignment
+  771  ls
+  772  cd loan_qualifier_app
+  773  ls
+  774  python app.py
+  775  /usr/local/bin/python3 /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  776  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  777  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/csv.py
+  778  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/csv.py
+  779  cd desktop
+  780  cd m2assignment
+  781  ls
+  782  cd loan_qualifier_app
+  783  ls
+  784  python app.py
+  785  brew install python
+  786  python -m venv module_2_m
+  787  source module_2_m/bin/activate
+  788  pip install fire
+  789  ls
+  790  code .
+  791  ls
+  792  python app.py
+  793  ls
+  794  pytohn app.py
+  795  python app.py
+  796  pip install questionary
+  797  ls
+  798  python app.py
+  799  ls
+  800  python app.py
+  801  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  802  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/csv.py
+  803  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  804  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/csv.py
+  805  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  806  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/csv.py
+  807  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  808  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/csv.py
+  809  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  810  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/csv.py
+  811  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  812  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/csv.py
+  813  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  814  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/csv.py
+  815  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  816  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/document.py
+  817  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  818  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/document.py
+  819  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  820  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  821  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  822  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  823  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  824  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  825  qualifying_loans.csv
+  826  results/qualifying_loans.csv
+  827  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  828  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  829  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  830  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  831  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  832  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  833  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  834  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  835  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  836  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  837  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  838  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  839  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  840  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  841  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  842  /daily_rate_sheet.csv
+  843  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  844  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  845  /usr/local/bin/python3 /Users/hieple/Desktop/loan_qualifier_app/app.py
+  846  ls
+  847  cd desktop
+  848  cd loan_qualifier_app
+  849  ls
+  850  python app.py
+  851  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  852  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  853  dfasf
+  854  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  855  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  856  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  857  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  858  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  859  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  860  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  861  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  862  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  863  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  864  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  865  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  866  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  867  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  868  cd
+  869  ls
+  870  desktop
+  871  cd desktop
+  872  ls
+  873  cd m2assignment
+  874  ls
+  875  cd loan_qualifier_app
+  876  ls
+  877  python app.py
+  878  ls
+  879  cd desktop
+  880  ls
+  881  cd m2assignment
+  882  cd loan_qualifier_app
+  883  ls
+  884  python app.py
+  885  ls
+  886  python app.py
+  887  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  888  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  889  ls
+  890  cd desktop
+  891  ls
+  892  cd m2assignment
+  893  ls
+  894  cd loan_qualifier_app
+  895  ls
+  896  python app.py
+  897  ls
+  898  python app.py
+  899  ls
+  900  cd desktop
+  901  cd m2assignment
+  902  ls
+  903  cd loan_qualifier_app
+  904  ls
+  905  python app.py
+  906  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  907  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  908  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  909  r/Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python
+  910  source /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/activate
+  911  /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/module_2_m/bin/python /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  912  ls
+  913  cd desktop
+  914  cd m2assignment
+  915  ls
+  916  cd loan_qualifier_app
+  917  cd
+  918  ls
+  919  cd desktop
+  920  ls
+  921  cd m2assignment
+  922  ls
+  923  cd loan_qualifier_app
+  924  ls
+  925  python app.py
+  926  ls
+  927  python app.py
+  928  ls
+  929  python app.py
+  930  ls
+  931  python app.py
+  932  ls
+  933  cd desktop
+  934  cd m2assignment
+  935  ls
+  936  cd loan_qualifier_app
+  937  ls
+  938  python app.py
+  939  ls
+  940  pip install fire
+  941  ls
+  942  python app.py
+  943  ls
+  944  python app.py
+  945  ls
+  946  cd desktop
+  947  cd m2assignment
+  948  ls
+  949  cd loan_qualifier_app
+  950  ly
+  951  ls
+  952  python app.py
+  953  ls
+  954  cd desktop
+  955  cd m2assignment
+  956  ls
+  957  cd loan_qualifier_app.py
+  958  ls
+  959  ls
+  960  cd loan_qualifier_app
+  961  l;s
+  962  ls
+  963  python app.py
+  964  ls
+  965  python app.py
+  966  ls
+  967  python app.py
+  968  ls
+  969  python app.py
+  970  ls
+  971  python app.py
+  972  python app.py
+  973  python app.py
+  974  python app.py
+  975  ls
+  976  cd desktop
+  977  cd loan_qualifier_app
+  978  ls
+  979  python app.py
+  980  ls
+  981  cd desktop
+  982  cd m2assignment
+  983  ls
+  984  cd loan_qualifier
+  985  cd loan_qualifier_app
+  986  ls
+  987  python app.py
+  988  /usr/local/bin/python3 /Users/hieple/Desktop/M2Assignment/loan_qualifier_app/app.py
+  989  ls
+  990  cd desktop
+  991  cd m2assignment
+  992  ls
+  993  cd loan_qualifier_app
+  994  ls
+  995  python app.py
+  996  s
+  997  ls
+  998  history 50 > terminal_history.txt
+  999  ls
+ 1000  ls
+ 1001  ls
+ 1002  cd desktop
+ 1003  cd m2assignment
+ 1004  history 50 > terminal_history.txt
+ 1005  ls
+ 1006  cd loan_qualifier_app
